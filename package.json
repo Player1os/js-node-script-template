@@ -1,0 +1,27 @@
+{
+  "name": "@player1os/js-node-script",
+  "version": "0.0.0",
+  "description": "A base project from which simple scripts written in javascript for node can be derived",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Player1os/js-node-script.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "script"
+  ],
+  "author": "Osama Hassanein <player1os@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Player1os/js-node-script/issues"
+  },
+  "homepage": "https://github.com/Player1os/js-node-script/#readme",
+  "engines": {
+    "node": "^10.6.0",
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {
+    "@player1os/javascript-support": "^1.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+# Environment variable configuration.
+.env
+
+# NPM generated files.
+node_modules
+npm-debug.log*
