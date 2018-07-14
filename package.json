@@ -22,6 +22,6 @@
     "npm": "^6.1.0"
   },
   "devDependencies": {
-    "@player1os/javascript-support": "^1.0.1"
+    "@player1os/javascript-support": "^1.0.3"
   }
 }
