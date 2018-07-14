@@ -5,3 +5,5 @@
 ![GitHub tag](https://img.shields.io/github/tag/player1os/js-node-script.svg?label=version)
 
 A base project from which simple scripts written in javascript for node can be derived.
+
+It contains a link to a common linter configuration for eslint.
