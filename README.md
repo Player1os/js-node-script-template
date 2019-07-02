@@ -30,10 +30,10 @@ Follow these instructions to create a new project based on this template:
 	git remote add base git@github.com:Player1os/js-node-script-template.git
 	```
 
-	Alternatively, we can use a modified version of the URL, if the ssh connection needs to be tunneled, by running:
+	Alternatively, we can use the HTTPS url, if an ssh connection cannot be established, by running:
 
 	```
-	git remote add base ssh://git@ssh.github.com:443/Player1os/js-node-script-template.git
+	git remote add base https://github.com/Player1os/js-node-script-template.git
 	```
 
 1. Pull the latest commits of the `master` branch from the newly set `base` remote, by running:
